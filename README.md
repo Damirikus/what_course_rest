@@ -1,8 +1,8 @@
 # what_course_rest
 
-# 1. download <repository>
+# 1. download repository
 
-# 2. cd <repository>
+# 2. cd repository
 
 #3. build project
 docker build -t what_course . 
